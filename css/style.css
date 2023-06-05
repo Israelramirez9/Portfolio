@@ -10000,3 +10000,10 @@ h6,
  justify-content: center;
  gap: 20px;
 }
+
+.portfolio-item > div{
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
