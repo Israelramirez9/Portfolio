@@ -10007,3 +10007,9 @@ h6,
   align-items: center;
   justify-content: center;
 }
+
+@media(max-width:700px){
+.container-father{
+  display: grid;
+}
+}
